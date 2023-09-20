@@ -17,11 +17,11 @@ header {
     text-align: center;
 }
 #logo {
-    width: 135px;
-    height: 130px;
+    width: 260px;
+    height: 160px;
     float: left;
     margin-right: 10px;;
-    background: url(/img/mylogo.png);
+    background: url(/img/coke.jpg);
 }
 
 a {
