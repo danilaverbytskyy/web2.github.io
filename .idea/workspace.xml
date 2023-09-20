@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ca8e30d-c266-4a74-b2b4-c98919fb50e5" name="Changes" comment="logo2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8ca8e30d-c266-4a74-b2b4-c98919fb50e5" name="Changes" comment="таюличка сделана">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +75,7 @@
       <workItem from="1694877977421" duration="1431000" />
       <workItem from="1695031535091" duration="4000" />
       <workItem from="1695189249765" duration="172000" />
-      <workItem from="1695190300345" duration="2927000" />
+      <workItem from="1695190300345" duration="3229000" />
     </task>
     <task id="LOCAL-00001" summary="logo">
       <created>1695192972685</created>
@@ -92,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695193082847</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="таюличка сделана">
+      <created>1695193671127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695193671127</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +107,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="logo" />
     <MESSAGE value="logo2" />
-    <option name="LAST_COMMIT_MESSAGE" value="logo2" />
+    <MESSAGE value="таюличка сделана" />
+    <option name="LAST_COMMIT_MESSAGE" value="таюличка сделана" />
   </component>
 </project>
