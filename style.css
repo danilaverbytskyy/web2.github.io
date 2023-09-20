@@ -1,0 +1,94 @@
+body {
+    text-align: center;
+    background-color: rgb(247, 232, 69);
+    color: rgb(46, 46, 46);
+}
+
+header {
+    color: #ffffff;
+    height: 200px;
+    margin-bottom: 130px;
+    background-color: rgb(24, 192, 154);
+    background-position: top;
+    background-size: 100%;
+    outline: 3px solid #ffffff;
+}
+.header_t {
+    text-align: center;
+}
+#logo {
+    width: 135px;
+    height: 130px;
+    float: left;
+    margin-right: 10px;;
+    background: url(/img/mylogo.png);
+}
+
+a {
+    text-decoration: none;
+    color: rgba(255, 0, 0, 0.6);
+}
+
+a:hover {
+    text-decoration: underline;
+    color:darkblue;
+}
+
+li {
+    list-style-type: none;
+}
+
+nav {
+    width: auto;
+    position: relative;
+    margin:  auto;
+}
+
+#nav ul {
+    bottom: 30px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0;
+    padding: 0;
+    float: center;
+    background-color: rgb(63, 0, 141);
+}
+
+#nav li {
+    float: left;
+    list-style-type: none;
+}
+
+#nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#nav li a:hover {
+    background-color: rgb(63, 0, 141);
+}
+
+table, tr, td {
+    margin: auto;
+    text-align: center;
+    background-color: rgb(63, 0, 141);
+    color: #ffffff;
+    padding: 3px;
+    border: 3px solid rgb(255, 255, 255);
+}
+
+footer {
+    color: #ffffff;
+    background-color: rgb(24, 192, 154);
+    margin-top: 50px;
+    left: 0;
+    bottom: 0;
+    width: auto;
+    height: 30px;
+    border: 2px solid rgb(255, 255, 255);
+}
+ 
